@@ -84,8 +84,15 @@ section {
 		width:200px;
 	}
 	
+	.cardBox {
+		width:100%;
+		display:flex;
+		justify-content:center;
+		align-items:center;
+	}
+	
 	header{
-		width:90%;
+		width:100%;
 		background-position:center;
 	}
 	
